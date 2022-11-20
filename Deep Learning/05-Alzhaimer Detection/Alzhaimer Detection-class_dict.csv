@@ -1,0 +1,5 @@
+class_index,class,height,width
+0,Mild_Demented,224,224
+1,Moderate_Demented,224,224
+2,Non_Demented,224,224
+3,Very_Mild_Demented,224,224
