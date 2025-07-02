@@ -1,0 +1,21 @@
+[global]
+disableWatchdogWarning = false
+
+[server]
+runOnSave = false
+allowRunOnSave = false
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+maxUploadSize = 200
+
+[browser]
+showErrorDetails = false
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#ff6b6b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
